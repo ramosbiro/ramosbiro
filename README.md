@@ -1,6 +1,6 @@
 # LEANDRO AUGUSTO RAMOS DE LIMA
 **Sênior Full Stack Developer | Network & Infrastructure Engineer | DevOps Specialist** 📍 Mogi das Cruzes, SP - BR | 📞 +55 11 94730-6322  
-✉️ [ramosbiro@gmail.com](mailto:ramosbiro@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/ramosbiro) | 🐙 [GitHub](https://github.com/ramosbiro)
+✉️ [ramosbiro@gmail.com](mailto:ramosbiro@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/SEU_PERFIL_AQUI) | 🐙 [GitHub](https://github.com/ramosbiro)
 
 ---
 
