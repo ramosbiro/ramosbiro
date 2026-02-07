@@ -3,7 +3,7 @@
 
 📍 Mogi das Cruzes, SP - BR | 📞 +55 11 94730-6322
 
-✉️ [ramosbiro@gmail.com](mailto:ramosbiro@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ramosbiro) | 🐙 [GitHub](https://github.com/ramosbiro)
+✉️ [ramosbiro@gmail.com](mailto:ramosbiro@gmail.com) &nbsp; | &nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ramosbiro) &nbsp; | &nbsp; 🐙 [GitHub](https://github.com/ramosbiro)
 
 ---
 
