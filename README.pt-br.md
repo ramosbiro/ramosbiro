@@ -1,4 +1,5 @@
-Read this in [Portuguese 🇧🇷](./README.pt-br.md)
+Leia isto em [Inglês 🇺🇸](./README.md)
+
 # LEANDRO AUGUSTO RAMOS DE LIMA
 **Sênior Full Stack Developer | Network & Infrastructure Engineer | DevOps Specialist**
 
