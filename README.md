@@ -1,3 +1,4 @@
+Leia isto em [Inglês 🇺🇸](./README.md)
 # LEANDRO AUGUSTO RAMOS DE LIMA
 **Senior Full Stack Developer | Network & Infrastructure Engineer | DevOps Specialist**
 
