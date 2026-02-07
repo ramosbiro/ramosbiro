@@ -10,7 +10,7 @@ Read this in [Portuguese 🇧🇷](./README.pt-br.md)
 ---
 
 ### 🚀 PROFESSIONAL PROFILE
-IT Expert in the hardware, software, systems, and networking industry with **over 20 years of experience in mission-critical environments**. High-impact hybrid profile, combining **Full Stack Development (Laravel/Vue)** with **Network & Infrastructure Engineering**. Specialist in the end-to-end project lifecycle: from topology design to physical and logical implementation. Linux Power User (**NixOS/Gentoo**) focused on offensive security, **Docker** automation, and system performance tuning.
+IT Expert in the hardware, software, systems, and networking industry with **over 20 years of technical experience**, including **13 years dedicated to mission-critical environments** within the São Paulo State Military Police. High-impact hybrid profile, combining **Full Stack Development (Laravel/Vue)** with **Network & Infrastructure Engineering**. Specialist in the end-to-end project lifecycle: from topology design to physical and logical implementation. Linux Power User (**NixOS/Gentoo/Arch**) focused on **offensive security**, **Docker** automation, and extreme system performance tuning.
 
 ---
 
