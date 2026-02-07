@@ -3,7 +3,7 @@ Leia isto em [Inglês 🇺🇸](./README.md)
 # LEANDRO AUGUSTO RAMOS DE LIMA
 **Sênior Full Stack Developer | Network & Infrastructure Engineer | DevOps Specialist**
 
-📍 Mogi das Cruzes, SP - BR | 📞 +55 11 94730-6322
+📍 [Mogi das Cruzes, SP - Brazil](https://maps.app.goo.gl/QTSP1qzJQjQex1JU6) | 📞 [+55 11 94730-6322](https://wa.me/5511947306322)
 
 ✉️ [ramosbiro@gmail.com](mailto:ramosbiro@gmail.com) &nbsp; | &nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ramosbiro) &nbsp; | &nbsp; 🐙 [GitHub](https://github.com/ramosbiro)
 
