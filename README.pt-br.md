@@ -10,7 +10,7 @@ Leia isto em [Inglês 🇺🇸](./README.md)
 ---
 
 ### 🚀 PERFIL PROFISSIONAL
-Especialista em TI atuando no setor de hardware, software, sistemas e redes com mais de **20 anos de experiência em missões críticas**. Perfil híbrido de alto impacto, unindo **Desenvolvimento Full Stack (Laravel/Vue)** à **Engenharia de Redes e Infraestrutura**. Especialista no ciclo completo de projetos: do desenho da topologia à implantação física e lógica. Power User de Linux (**NixOS/Gentoo**) focado em segurança ofensiva, automação com **Docker** e performance de sistemas.
+Especialista em TI atuando no setor de hardware, software, sistemas e redes com **mais de 20 anos de experiência técnica**, sendo os últimos **13 anos dedicados a missões críticas** na Polícia Militar do Estado de São Paulo. Perfil híbrido de alto impacto, unindo **Desenvolvimento Full Stack (Laravel/Vue)** à **Engenharia de Redes e Infraestrutura**. Especialista no ciclo completo de projetos: do desenho da topologia à implantação física e lógica. Power User de Linux (**NixOS/Gentoo/Arch**) focado em **segurança ofensiva**, automação com **Docker** e otimização extrema de performance de sistemas.
 
 ---
 
